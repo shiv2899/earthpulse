@@ -1,1 +1,1 @@
-# earthpulse
+# EarthPulse - NASA Space Apps 2026. AI dashboard using NASA POWER data for Kanpur to detect temperature and rainfall trends and predict 2030 temperature using Linear Regression. Run: streamlit run app.py
