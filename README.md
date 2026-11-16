@@ -17,7 +17,7 @@ EarthPulse answers one simple question in 1 minute:
 
 It takes 【entity-NASA¦canonical_name=NASA】 POWER open data for Kanpur, India, shows past 20 years trends with clear graphs, and uses Machine Learning to predict future temperature.
 
-**Live Demo Slides:** [View Presentation](https://docs.google.com/presentation/d/YOUR_SLIDES_LINK_HERE)
+**Live Demo Slides:** [https://docs.google.com/presentation/d/1MYtpqVTg8pKPwv7hzXWbbs43Zoq1NvxXpSme_cHtqZ4/edit?usp=sharing](https://docs.google.com/presentation/d/YOUR_SLIDES_LINK_HERE)
 **Space Apps Project Page:** https://www.spaceappschallenge.org
 
 ---
